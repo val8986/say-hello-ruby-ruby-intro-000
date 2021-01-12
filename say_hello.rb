@@ -2,6 +2,6 @@
 
 def say_hello(name)
   name = "Keddie"
-  print "say_hello"
+  print "Hello + name"
 
 end`
